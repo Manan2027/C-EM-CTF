@@ -1,119 +1,117 @@
-# 🧠 C-EM-CTF
+# 💻 C-EM-CTF
 
-> Daily Cybersecurity Lab Practice & CTF Writeups
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cybersecurity+Learner;CTF+Player;Reverse+Engineering+Enthusiast;Daily+Lab+Solver" alt="Typing SVG" />
+</p>
+
+---
+
+## 🧠 About Me
+
+```bash
+> whoami
+Manan2027
+
+> focus
+Cybersecurity | CTF | Reverse Engineering
+
+> status
+Learning. Breaking. Improving.
+```
 
 ---
 
 ## 🔗 Platform
 
-I regularly solve labs from:
-
+💻 Labs solved daily from:  
 👉 https://csem.sturtles.in/dashboard
 
 ---
 
-## 📌 About This Repository
+## ⚡ Repository Structure
 
-This repository contains my **daily CTF challenge solutions**, writeups, and learning notes.
-
-The goal is to:
-- Build strong cybersecurity fundamentals
-- Practice real-world problem solving
-- Document knowledge for revision
-- Track my daily progress
-
----
-```
+```bash
 C-EM-CTF/
-│
-├── Photo/ # Image-based & steganography challenges
-├── Reverse Again/ # Reverse engineering challenges
-├── Crypto/ # Cryptography challenges (optional future)
-├── Web/ # Web exploitation (optional future)
-├── Forensics/ # Forensics challenges (optional future)
-│
+├── 📸 Photo/            # Steganography challenges
+├── 🧠 Reverse Again/    # Reverse engineering
+├── 🔐 Crypto/           # Cryptography
+├── 🌐 Web/              # Web exploitation
+├── 📂 Forensics/        # Forensics
+└── README.md
 ```
 
 ---
 
-## 🧩 Categories Covered
+## 🧩 Skills in Progress
 
-- 📸 Steganography
-- 🔐 Cryptography
-- 🕵️ Reverse Engineering
-- 🌐 Web Exploitation
-- 📂 Forensics
-- ⚙️ Miscellaneous
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,git,bash" />
+</p>
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools Arsenal
 
-- **Languages:** Python 🐍, Bash
-- **Tools:**
-  - CyberChef
-  - Ghidra / IDA
-  - Wireshark
-  - Burp Suite
-  - Binwalk
-  - Steghide
-- **Environment:** Kali Linux / Linux CLI 🐧
-
----
-
-## 📖 Writeups
-
-Each challenge folder may include:
-
-- 📝 Problem description
-- 📁 Challenge files
-- 💻 Solution scripts
-- 🧠 Step-by-step explanation
+```bash
+[✔] Ghidra
+[✔] Wireshark
+[✔] Burp Suite
+[✔] CyberChef
+[✔] Binwalk
+[✔] Steghide
+```
 
 ---
 
-## 📈 Progress Tracker
+## 📈 GitHub Stats
 
-| Day | Challenge | Category | Status |
-|-----|----------|---------|--------|
-| 1   | Example  | Reverse | ✅ |
-| 2   | Example  | Photo   | ✅ |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manan2027&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manan2027&theme=radical" />
+</p>
 
-*(Updating daily...)*
+---
+
+## 🧠 Daily Progress
+
+```diff
++ Day 01: Reverse Engineering ✅
++ Day 02: Steganography ✅
++ Day 03: Crypto 🔄
+```
 
 ---
 
 ## ⚠️ Disclaimer
 
-This repository is created for **educational purposes only**.  
-All rights belong to the respective platform and challenge creators.
+```bash
+This repository is for educational purposes only.
+All challenges belong to their respective creators.
+```
+
+---
+
+## ☠️ Motto
+
+```bash
+"Break. Learn. Repeat."
+```
 
 ---
 
 ## ⭐ Support
 
-If you like this repo:
-
-- Give it a ⭐ on GitHub
-- Follow for more updates
-
----
-
-## 👨‍💻 Author and Member
-
-**Manan2027** <br>
-**Ishanwalia**
+```bash
+git star ⭐
+git follow 🚀
+```
 
 ---
 
-## 🚀 Future Plans
+## 🧑‍💻 Author
 
-- Add detailed writeups for all challenges
-- Automate solving scripts
-- Create categorized notes
-- Build a personal CTF toolkit
+```bash
+Manan2027
+```
 
 ---
-
-
-## 🗂️ Repository Structure
