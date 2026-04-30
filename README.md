@@ -101,7 +101,7 @@ If you like this repo:
 
 ## 👨‍💻 Author and Member
 
-**Manan2027** 
+**Manan2027** <br>
 **Ishanwalia**
 
 ---
